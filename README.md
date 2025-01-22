@@ -20,7 +20,7 @@ Principais ferramentas:
 Onde podem me encontrar:
 
 <div>
-  <a href="https://www.instagram.com/?next=%2F">
+  <a href="https://www.instagram.com/mateusquina/?next=%2F">
     <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
