@@ -23,7 +23,7 @@ Onde podem me encontrar:
   <a href="https://www.instagram.com/mateusquina/?next=%2F">
     <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
-  <a href="">
-    <img height="40" width="40" src="https://www.linkedin.com/in/mateus-de-lima-quina-4a699b295/">
+  <a href="https://www.linkedin.com/in/mateus-de-lima-quina-4a699b295/">
+    <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
