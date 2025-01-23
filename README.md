@@ -10,12 +10,16 @@ Sobre mim:
 - 💡 Aplico tudo oque estou aprendendo neste universo dos dados na minha profissão, analisando dados de acidentes, dados sobre uso do EPI entre outros
 - 🤓 Analista de Dados aspirante buscando a primeira oportunidade
 
+<br>
+
 Principais ferramentas:
 
 <div>
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/sql.png?raw=true">
   <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">  
 </div>
+
+<br>
 
 Onde podem me encontrar:
 
@@ -27,3 +31,6 @@ Onde podem me encontrar:
     <img height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
+
+<br>
+
