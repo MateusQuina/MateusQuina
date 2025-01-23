@@ -34,3 +34,15 @@ Onde podem me encontrar:
 
 <br>
 
+## Portfólio e Principais Projetos
+### Contoso Sales Dashboard
+<img align="right" width="500"  src="https://github.com/MateusQuina/ProjetoClientes01/blob/main/Imagens/Dashboad02.png?raw=true">
+Projeto de dashboard devolvido com Power BI voltado para uma analise de clientes, e dos principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão. <br>
+
+Principais problemas relatados pelo requisitante: <br>
+- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas. <br>
+- Segmentar dados  por Região, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
+- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+<br>
+<a href= "https://github.com/MateusQuina/ProjetoClientes01"> Clique aqui </a> e acesse o repositório no Github.
+
