@@ -6,8 +6,8 @@ Sobre mim:
 
 - 🔭 Atualmente trabalho como tecnico de segurança no trabalho
 - 🏠 Atualmente moro e trabalho em Londrina PR
-- 🌱 Busco minha primeira vaga como Analista
-- 💡 Aplico tudo oque estou aprendendo neste universo dos dados na minha profissão, analisando dados de acidentes, dados sobre uso do EPI entre outros
+- 🌱 Busco minha primeira vaga como Analista de dados
+- 💡 Aplico tudo o que estou aprendendo neste universo dos dados na minha profissão atual, analisando dados de acidentes, dados sobre uso do EPI entre outras analises
 - 🤓 Analista de Dados aspirante buscando a primeira oportunidade
 
 <br>
