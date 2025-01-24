@@ -45,4 +45,6 @@ Principais problemas relatados pelo requisitante: <br>
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
 <br>
 <a href= "https://github.com/MateusQuina/ProjetoClientes01"> Clique aqui </a> e acesse o repositório no Github.
+<br>
+<a href="https://app.powerbi.com/groups/me/reports/5699c6e8-2078-4f66-ab3a-d434a5ffd17b/fe3ea10e6c0911403c0b?experience=power-bi&clientSideAuth=0" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 
