@@ -46,5 +46,5 @@ Principais problemas relatados pelo requisitante: <br>
 <br>
 <a href= "https://github.com/MateusQuina/ProjetoClientes01"> Clique aqui </a> e acesse o repositório no Github.
 <br>
-<a href="https://app.powerbi.com/groups/me/reports/5699c6e8-2078-4f66-ab3a-d434a5ffd17b/fe3ea10e6c0911403c0b?experience=power-bi&clientSideAuth=0" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiN2RlNjcxODUtZDQ2NC00YWMzLWI0OGUtNGE4N2M4ODc3YTAzIiwidCI6IjUwZTI0ZTMwLWQyM2QtNDhkOC05NGQ0LWNkNmMzYTI2ODU0OCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 
